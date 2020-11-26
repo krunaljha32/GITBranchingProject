@@ -1,11 +1,3 @@
 flask
 
 redis
-
-<<<<<<< HEAD
-
-This is my First Feature
-=======
-This is my Second modification
-
->>>>>>> Feature2
